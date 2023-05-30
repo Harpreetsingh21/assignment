@@ -1,6 +1,6 @@
 p=int(input("Enter the principal amount :"))
 t=int(input("Enter the time period :"))
-g=input("Enter your gender : ")
+g=input("Enter your gender (male/female): ")
 s=input("Are you senior citizen?(y/n)")
 
 if g=='female' and s=='y':
